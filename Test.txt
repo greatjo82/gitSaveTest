@@ -1,2 +1,2 @@
-Git Repository 테스트 초기 작업완료..
-2번째 작업시작....
+Git Repository 테스트 2번째 작업완료..
+3번째 시작단계xxxx
